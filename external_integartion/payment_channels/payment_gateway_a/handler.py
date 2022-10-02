@@ -10,4 +10,5 @@ class PaymentGatewayA(BasePaymentHandler, APIClient):
         pass
 
     def process_payment(self, request) -> bool:
+        # Here you have to find the way to integrate Payment gateway A
         return True

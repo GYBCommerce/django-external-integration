@@ -281,3 +281,4 @@ sappay_backend/media/
 .env
 .idea/
 .vscode/
+*.db
