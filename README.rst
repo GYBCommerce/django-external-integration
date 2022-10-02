@@ -2,12 +2,10 @@
 How to handler external API in django project
 =================
 
-A Django '`External Integration <https://en.wikipedia.org/wiki/%22External Integration!%22_program>`_' program example.
-
 Installation
 ============
 
-You need install the pre-requirements for run this Hello World example.
+You need install the pre-requirements for run this 101 example.
 
 Update repositories of available packages to install, with
 the following command:
@@ -86,7 +84,7 @@ After which you can run::
     $ python3 manage.py runserver
 
 Then, you can open the URL http://127.0.0.1:8000/ in your web browser and you can 
-see the hello world example like this:
+see the 101 example like this:
 
 .. figure:: https://github.com/django-ve/django-external-integration/raw/master/docs/django_helloword.png
    :width: 315px
